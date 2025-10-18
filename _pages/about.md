@@ -16,8 +16,11 @@ If you have any questions or have an interest in collaborating with me, please f
 
 News
 ======
-1. <b>[Mar. 2025]</b> One collaborative paper titled ["Mobility-Aware Near-Field Beam Training in XL-MIMO Systems for High-Speed Railway"](https://zhewang77.github.io/files/
-Mobility-Aware_Near-Field_Beam_Training_in_XL-MIMO_Systems_for_High-Speed_Railway.pdf) has been accepted by ***IEEE Wireless Communications Letters***.
+2. <b>[Sep. 2025]</b> I have start my new journey as a Postdoctoral Researcher with KTH Royal Institute of Technology, Sweden.
+2. <b>[Sep. 2025]</b> One collaborative paper titled ["Asynchronous Distributed Beamforming for Beyond-Diagonal RIS-aided Movable Antenna Systems"](https://zhewang77.github.io/files/Asynchronous_Distributed_Beamforming_for_Beyond-Diagonal_RIS-aided_Movable_Antenna_Systems.pdf) has been accepted by ***IEEE Transactions on Wireless Communications***.
+1. <b>[Jun. 2025]</b> I have successfully defended my Ph.D. theis. Many thanks to my supervisor Prof. Jiayi Zhang and all defense committee members.
+2. <b>[Apr. 2025]</b> One collaborative paper titled ["Mobility-Aware Near-Field Beam Training in XL-MIMO Systems for High-Speed Railway"](https://zhewang77.github.io/files/Mobility-Aware_Near-Field_Beam_Training_in_XL-MIMO_Systems_for_High-Speed_Railway.pdf) has been accepted by ***IEEE Wireless Communications Letters***.
+1. <b>[Mar. 2025]</b> One collaborative paper titled ["Mobility-Aware Near-Field Beam Training in XL-MIMO Systems for High-Speed Railway"](https://zhewang77.github.io/files/Mobility-Aware_Near-Field_Beam_Training_in_XL-MIMO_Systems_for_High-Speed_Railway.pdf) has been accepted by ***IEEE Wireless Communications Letters***.
 1. <b>[Mar. 2025]</b> One collaborative paper titled ["ROMA: Rotary and Movable Antenna"](https://zhewang77.github.io/files/ROMA_Rotary_and_Movable_Antenna.pdf) has been accepted by ***IEEE Wireless Communications Letters***.
 1. <b>[Mar. 2025]</b> One first-author paper titled ["Optimal Bilinear Equalizer for Cell-Free Massive MIMO Systems over Correlated Rician Channels"](https://zhewang77.github.io/files/Optimal_Bilinear_Equalizer_for_Cell-Free_Massive_MIMO_Systems_over_Correlated_Rician_Channels.pdf) has been accepted by ***IEEE Transactions on Signal Processing***.
 2. <b>[Mar. 2025]</b> One collaborative paper titled ["Performance Analysis of XL-MIMO With Rotary and Movable Antennas for High-Speed Railway"](https://zhewang77.github.io/files/
