@@ -59,10 +59,9 @@ Performance_Analysis_of_XL-MIMO_With_Rotary_and_Movable_Antennas_for_High-Speed_
 
 Submitted Papers
 ======
-1. **Zhe Wang**, Jiayi Zhang, Hongyang Du, Ruichen Zhang, Dusit Niyato, Bo Ai, and Khaled B. Letaief, ["Generative AI Agent for Next-Generation MIMO Design: Fundamentals, Challenges, and Vision,"](https://arxiv.org/abs/2404.08878) submitted, 2024.
+1. **Zhe Wang**, Jiayi Zhang, Bokai Xu, Wenhui Yi, Emil Björnson, and Bo Ai, ["Flexible MIMO for Future Wireless Communications: Which Flexibilities are Possible?"](https://arxiv.org/abs/2506.07599) submitted, 2025.
 
 ---
-
 
 First-Author Papers
 ======
