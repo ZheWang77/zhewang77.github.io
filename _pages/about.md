@@ -17,20 +17,19 @@ If you have any questions or have an interest in collaborating with me, please f
 News
 ======
 2. <b>[Sep. 2025]</b> I have started my new journey as a Postdoctoral Researcher with KTH Royal Institute of Technology, Sweden.
-2. <b>[Sep. 2025]</b> One collaborative paper titled ["Asynchronous Distributed Beamforming for Beyond-Diagonal RIS-aided Movable Antenna Systems"](https://zhewang77.github.io/files/Asynchronous_Distributed_Beamforming_for_Beyond-Diagonal_RIS-aided_Movable_Antenna_Systems.pdf) has been accepted by ***IEEE Transactions on Wireless Communications***.
-1. <b>[Jun. 2025]</b> I have successfully defended my Ph.D. theis. Many thanks to my supervisor Prof. Jiayi Zhang and all defense committee members.
-2. <b>[Apr. 2025]</b> One collaborative paper titled ["Mobility-Aware Near-Field Beam Training in XL-MIMO Systems for High-Speed Railway"](https://zhewang77.github.io/files/Mobility-Aware_Near-Field_Beam_Training_in_XL-MIMO_Systems_for_High-Speed_Railway.pdf) has been accepted by ***IEEE Wireless Communications Letters***.
-1. <b>[Mar. 2025]</b> One collaborative paper titled ["Mobility-Aware Near-Field Beam Training in XL-MIMO Systems for High-Speed Railway"](https://zhewang77.github.io/files/Mobility-Aware_Near-Field_Beam_Training_in_XL-MIMO_Systems_for_High-Speed_Railway.pdf) has been accepted by ***IEEE Wireless Communications Letters***.
-1. <b>[Mar. 2025]</b> One collaborative paper titled ["ROMA: Rotary and Movable Antenna"](https://zhewang77.github.io/files/ROMA_Rotary_and_Movable_Antenna.pdf) has been accepted by ***IEEE Wireless Communications Letters***.
-1. <b>[Mar. 2025]</b> One first-author paper titled ["Optimal Bilinear Equalizer for Cell-Free Massive MIMO Systems over Correlated Rician Channels"](https://zhewang77.github.io/files/Optimal_Bilinear_Equalizer_for_Cell-Free_Massive_MIMO_Systems_over_Correlated_Rician_Channels.pdf) has been accepted by ***IEEE Transactions on Signal Processing***.
-2. <b>[Mar. 2025]</b> One collaborative paper titled <a href="https://zhewang77.github.io/files/
+3. <b>[Sep. 2025]</b> One collaborative paper titled <a href="https://zhewang77.github.io/files/Asynchronous_Distributed_Beamforming_for_Beyond-Diagonal_RIS-aided_Movable_Antenna_Systems.pdf">"Asynchronous Distributed Beamforming for Beyond-Diagonal RIS-aided Movable Antenna Systems"</a> has been accepted by <b><i>IEEE Transactions on Wireless Communications</i></b>.
+4. <b>[Jun. 2025]</b> I have successfully defended my Ph.D. theis. Many thanks to my supervisor Prof. Jiayi Zhang and all defense committee members.
+5. <b> [May 2025]</b> One collaborative paper titled <a href="https://zhewang77.github.io/files/
 Performance_Analysis_of_XL-MIMO_With_Rotary_and_Movable_Antennas_for_High-Speed_Railway.pdf">"Performance Analysis of XL-MIMO With Rotary and Movable Antennas for High-Speed Railway"</a> has been accepted by <b><i>IEEE Transactions on Vehicular Technology</i></b>.
+2. <b>[Apr. 2025]</b> One collaborative paper titled <a href="https://zhewang77.github.io/files/Mobility-Aware_Near-Field_Beam_Training_in_XL-MIMO_Systems_for_High-Speed_Railway.pdf">"Mobility-Aware Near-Field Beam Training in XL-MIMO Systems for High-Speed Railway"</a> has been accepted by <b><i>IEEE Wireless Communications Letters</i></b>.
+1. <b>[Mar. 2025]</b> One collaborative paper titled <a href="https://zhewang77.github.io/files/ROMA_Rotary_and_Movable_Antenna.pdf">"ROMA: Rotary and Movable Antenna"</a> has been accepted by <b><i>IEEE Wireless Communications Letters</i></b>.
+1. <b>[Mar. 2025]</b> One first-author paper titled <a href="https://zhewang77.github.io/files/Optimal_Bilinear_Equalizer_for_Cell-Free_Massive_MIMO_Systems_over_Correlated_Rician_Channels.pdf">"Optimal Bilinear Equalizer for Cell-Free Massive MIMO Systems over Correlated Rician Channels"</a> has been accepted by <b><i>IEEE Transactions on Signal Processing</i></b>.
 
 
 
 <details>
 <summary><strong>👉 More News</strong></summary>
-<ol start="10"> 
+<ol start="8"> 
 <li><b>[Feb. 2025]</b> One collaborative paper titled <a href="https://zhewang77.github.io/files/Downlink_Performance_Analysis_of_Extremely_Large-Scale_MIMO-OFDM_Systems_for_High-Speed_Railway.pdf">"Downlink Performance Analysis of Extremely Large-Scale MIMO-OFDM Systems for High-Speed Railway"</a> has been accepted by <b><i>IEEE Transactions on Vehicular Technology</i></b>.</li>
 <li><b>[Jan. 2025]</b> One first-author paper titled <a href="https://zhewang77.github.io/files/Analytical_Framework_for_Effective_Degrees_of_Freedom_in_Near-Field_XL-MIMO.pdf">"Analytical Framework for Effective Degrees of Freedom in Near-Field XL-MIMO"</a> has been accepted by <b><i>IEEE Transactions on Wireless Communications</i></b>.</li>
 <li><b>[Jan. 2025]</b> One first-author paper titled <a href="https://zhewang77.github.io/files/A Tutorial on Extremely Large-Scale MIMO for 6G Fundamentals, Signal Processing, and Applications.pdf">"A Tutorial on Extremely Large-Scale MIMO for 6G: Fundamentals, Signal Processing, and Applications"</a> has been an <b><i>ESI Highly Cited Paper</i></b>.</li>
