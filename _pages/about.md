@@ -16,7 +16,7 @@ If you have any questions or have an interest in collaborating with me, please f
 
 News
 ======
-2. <b>[Sep. 2025]</b> I have started my new journey as a Postdoctoral Researcher with KTH Royal Institute of Technology, Sweden.
+1. <b>[Sep. 2025]</b> I have started my new journey as a Postdoctoral Researcher with KTH Royal Institute of Technology, Sweden.
 3. <b>[Sep. 2025]</b> One collaborative paper titled <a href="https://zhewang77.github.io/files/Asynchronous_Distributed_Beamforming_for_Beyond-Diagonal_RIS-aided_Movable_Antenna_Systems.pdf">"Asynchronous Distributed Beamforming for Beyond-Diagonal RIS-aided Movable Antenna Systems"</a> has been accepted by <b><i>IEEE Transactions on Wireless Communications</i></b>.
 4. <b>[Jul. 2025]</b> One first-author paper titled <a href="https://zhewang77.github.io/files/A Tutorial on Extremely Large-Scale MIMO for 6G Fundamentals, Signal Processing, and Applications.pdf">"A Tutorial on Extremely Large-Scale MIMO for 6G: Fundamentals, Signal Processing, and Applications"</a> has been an <b><i>ESI Hot Paper</i></b>.
 5. <b>[Jun. 2025]</b> I have successfully defended my Ph.D. theis. Many thanks to my supervisor Prof. Jiayi Zhang and all defense committee members.
