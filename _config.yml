@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Zhe Wang's Website"
 title_separator          : "-"
 name                     : &name "Zhe Wang"
-description              : &description "Ph.D. Candidate"
+description              : &description "Postdoctoral Researcher"
 url                      : https://zhewang77.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZheWang77/ZheWang77.github.io"
@@ -26,12 +26,12 @@ author:
   # Biographic information
   avatar           : "profile2.jpg"
   name             : "Zhe Wang"
-  pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate, Beijing Jiaong University"
-  location         : "China"
-  employer         : "Beijing Jiaong University"
+  pronouns         : # example: "he/his"  
+  bio              : "Postdoctoral Researcher, KTH Royal Institute of Technology"
+  location         : "Sweden"
+  employer         : "KTH Royal Institute of Technology"
   uri              : 
-  email            : "zhewang_77@bjtu.edu.cn" 
+  email            : "zhewang2@kth.se" 
 
   # Academic websites
   arxiv            : 
