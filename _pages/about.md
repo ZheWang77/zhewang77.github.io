@@ -28,7 +28,6 @@ Performance_Analysis_of_XL-MIMO_With_Rotary_and_Movable_Antennas_for_High-Speed_
 3. <b>[Feb. 2025]</b> One collaborative paper titled ["Downlink Performance Analysis of Extremely Large-Scale MIMO-OFDM Systems for High-Speed Railway"](https://zhewang77.github.io/files/Downlink_Performance_Analysis_of_Extremely_Large-Scale_MIMO-OFDM_Systems_for_High-Speed_Railway.pdf) has been accepted by ***IEEE Transactions on Vehicular Technology***.
 1. <b>[Jan. 2025]</b> One first-author paper titled ["Analytical Framework for Effective Degrees of Freedom in Near-Field XL-MIMO"](https://zhewang77.github.io/files/Analytical_Framework_for_Effective_Degrees_of_Freedom_in_Near-Field_XL-MIMO.pdf) has been accepted by ***IEEE Transactions on Wireless Communications***.
 2. <b>[Dec. 2024]</b> One first-author paper titled ["Optimal Bilinear Equalizer Beamforming Design for Cell-Free Massive MIMO Networks with Arbitrary Channel Estimators"](https://zhewang77.github.io/files/Optimal_Bilinear_Equalizer_Beamforming_Design_for_Cell-Free_Massive_MIMO_Networks_with_Arbitrary_Channel_Estimators.pdf) has been accepted by ***IEEE Transactions on Vehicular Technology***.
-3.   I finished my visiting time at Nanyang Technological University, Singapore. Thanks for everyone meeting in Singapore!
 
 
 <details>
