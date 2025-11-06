@@ -62,12 +62,13 @@ Submitted Papers
 ======
 1. **Zhe Wang**, Jiayi Zhang, Bokai Xu, Wenhui Yi, Emil Björnson, and Bo Ai, ["Flexible MIMO for Future Wireless Communications: Which Flexibilities are Possible?"](https://arxiv.org/abs/2506.07599) submitted, 2025.
 
+
 ---
 
 First-Author Papers
 ======
 **For all publications, please refer to Publications or my [google scholar](https://scholar.google.com/citations?user=eVeXKIEAAAAJ&hl=en).**
-1. **Zhe Wang**, Jiayi Zhang, Bokai Xu, Wenhui Yi, Emil Björnson, and Bo Ai, ["Flexible MIMO for Future Wireless Communications: Which Flexibilities are Possible?"](https://arxiv.org/abs/2506.07599) ***IEEE Wireless Communications***, accepted, 2025. <i><font color="#C93756"> We present a taxonomy framework, referred to as flexible MIMO technology, that systematically categorizes a wide range of evolving MIMO technologies.
+1. **Zhe Wang**, Jiayi Zhang, Bokai Xu, Wenhui Yi, Emil Björnson, and Bo Ai, ["Flexible MIMO for Future Wireless Communications: Which Flexibilities are Possible?"](https://arxiv.org/abs/2506.07599) ***IEEE Wireless Communications***, accepted, 2025. <i><font color="#C93756"> We present a taxonomy framework, referred to as flexible MIMO, that systematically categorizes a wide range of evolving MIMO technologies.
 1. **Zhe Wang**, Jiayi Zhang, Hongyang Du, Ruichen Zhang, Dusit Niyato, Bo Ai, and Khaled B. Letaief, ["Large Language Model Empowered Next-Generation MIMO Networks: Fundamentals, Challenges, and Visions,"](https://arxiv.org/abs/2404.08878) ***Digital Communications and Networks***, accepted, 2025. <i><font color="#C93756"> We study the large language model enabled next-generation MIMO networks.
 1. **Zhe Wang**, Jiayi Zhang, Emil Björnson, Dusit Niyato, and Bo Ai, ["Optimal Bilinear Equalizer for Cell-Free Massive MIMO Systems over Correlated Rician Channels,"](https://arxiv.org/abs/2407.18531) ***IEEE Transactions on Signal Processing***, accepted, 2025. <i><font color="#C93756"> We explore the low-complexity optimal bilinear equalizer (OBE) combining scheme design for cell-free massive multiple-input multiple-output networks with spatially correlated Rician fading channels.</font><i>[<a href="https://github.com/ZheWang77/Optimal_Bilinear_Equalizer_Cell_Free_Massive_MIMO_Systems_over_Correlated_Rician_Channels">Download Simulation Code</a>]
 1. **Zhe Wang**, Jiayi Zhang, Wenhui Yi, Huahua Xiao, Hongyang Du, Dusit Niyato, Bo Ai, ["Analytical Framework for Effective Degrees of
