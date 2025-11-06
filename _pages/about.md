@@ -60,8 +60,7 @@ Performance_Analysis_of_XL-MIMO_With_Rotary_and_Movable_Antennas_for_High-Speed_
 
 Submitted Papers
 ======
-1. **Zhe Wang**, Jiayi Zhang, Bokai Xu, Wenhui Yi, Emil Björnson, and Bo Ai, ["Flexible MIMO for Future Wireless Communications: Which Flexibilities are Possible?"](https://arxiv.org/abs/2506.07599) submitted, 2025.
-
+1. **Zhe Wang**, Jiayi Zhang, Bokai Xu, Dusit Niyato, Bo Ai, Shiwen Mao, and Zhu Han, "Low-Complexity Distributed Combining Design for Near-Field Cell-Free XL-MIMO Systems" submitted to ***IEEE Transactions on Wireless Communications***, 2025.
 
 ---
 
