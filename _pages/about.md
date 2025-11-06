@@ -16,6 +16,7 @@ If you have any questions or have an interest in collaborating with me, please f
 
 News
 ======
+1. <b>[Nov. 2025]</b> One first-author paper titled <a href="https://arxiv.org/abs/2506.07599">"Flexible MIMO for Future Wireless Communications: Which Flexibilities are Possible?"</a> has been accepted by <b><i>IEEE Wireless Communications</i></b>.</li>
 1. <b>[Sep. 2025]</b> I have started my new journey as a Postdoctoral Researcher with KTH Royal Institute of Technology, Sweden.
 3. <b>[Sep. 2025]</b> One collaborative paper titled <a href="https://zhewang77.github.io/files/Asynchronous_Distributed_Beamforming_for_Beyond-Diagonal_RIS-aided_Movable_Antenna_Systems.pdf">"Asynchronous Distributed Beamforming for Beyond-Diagonal RIS-aided Movable Antenna Systems"</a> has been accepted by <b><i>IEEE Transactions on Wireless Communications</i></b>.
 4. <b>[Jul. 2025]</b> One first-author paper titled <a href="https://zhewang77.github.io/files/A Tutorial on Extremely Large-Scale MIMO for 6G Fundamentals, Signal Processing, and Applications.pdf">"A Tutorial on Extremely Large-Scale MIMO for 6G: Fundamentals, Signal Processing, and Applications"</a> has been an <b><i>ESI Hot Paper</i></b>.
@@ -30,7 +31,7 @@ Performance_Analysis_of_XL-MIMO_With_Rotary_and_Movable_Antennas_for_High-Speed_
 
 <details>
 <summary><strong>👉 More News</strong></summary>
-<ol start="9"> 
+<ol start="10"> 
 <li><b>[Feb. 2025]</b> One collaborative paper titled <a href="https://zhewang77.github.io/files/Downlink_Performance_Analysis_of_Extremely_Large-Scale_MIMO-OFDM_Systems_for_High-Speed_Railway.pdf">"Downlink Performance Analysis of Extremely Large-Scale MIMO-OFDM Systems for High-Speed Railway"</a> has been accepted by <b><i>IEEE Transactions on Vehicular Technology</i></b>.</li>
 <li><b>[Jan. 2025]</b> One first-author paper titled <a href="https://zhewang77.github.io/files/Analytical_Framework_for_Effective_Degrees_of_Freedom_in_Near-Field_XL-MIMO.pdf">"Analytical Framework for Effective Degrees of Freedom in Near-Field XL-MIMO"</a> has been accepted by <b><i>IEEE Transactions on Wireless Communications</i></b>.</li>
 <li><b>[Jan. 2025]</b> One first-author paper titled <a href="https://zhewang77.github.io/files/A Tutorial on Extremely Large-Scale MIMO for 6G Fundamentals, Signal Processing, and Applications.pdf">"A Tutorial on Extremely Large-Scale MIMO for 6G: Fundamentals, Signal Processing, and Applications"</a> has been an <b><i>ESI Highly Cited Paper</i></b>.</li>
