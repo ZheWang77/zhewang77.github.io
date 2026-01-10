@@ -16,7 +16,7 @@ If you have any questions or have an interest in collaborating with me, please f
 
 News
 ======
-1. <b>[Jan. 2026]</b> One collaborative paper titled <a href="https://zhewang77.github.io/files/A tutorial on near-field XL-MIMO communications towards 6G.pdf">""A tutorial on near-field XL-MIMO communications towards 6G"</a> has been an <b><i>ESI Highly Cited Paper</i></b>.
+1. <b>[Jan. 2026]</b> One collaborative paper titled <a href="https://zhewang77.github.io/files/A tutorial on near-field XL-MIMO communications towards 6G.pdf">"A tutorial on near-field XL-MIMO communications towards 6G"</a> has been an <b><i>ESI Highly Cited Paper</i></b>.
 1. <b>[Nov. 2025]</b> One first-author paper titled <a href="https://arxiv.org/abs/2506.07599">"Flexible MIMO for Future Wireless Communications: Which Flexibilities are Possible?"</a> has been accepted by <b><i>IEEE Wireless Communications</i></b>.
 1. <b>[Sep. 2025]</b> I have started my new journey as a Postdoctoral Researcher with KTH Royal Institute of Technology, Sweden.
 3. <b>[Sep. 2025]</b> One collaborative paper titled <a href="https://zhewang77.github.io/files/Asynchronous_Distributed_Beamforming_for_Beyond-Diagonal_RIS-aided_Movable_Antenna_Systems.pdf">"Asynchronous Distributed Beamforming for Beyond-Diagonal RIS-aided Movable Antenna Systems"</a> has been accepted by <b><i>IEEE Transactions on Wireless Communications</i></b>.
