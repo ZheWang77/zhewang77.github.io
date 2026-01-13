@@ -116,9 +116,10 @@ Awards
 
 Academic Services
 ======
+1. **TPC member**, IEEE VTC 2026-Spring Nice, France, Machine Learning for Communications
 1. **TPC member**, IEEE GLOBECOM 2024
 1. **TPC Member**, IEEE PIMRC 2024, Track 2 - Networking & MAC
-2. **TPC Member**, IEEE VTC 2023-Fall: Hong Kong, Electric Vehicles, Vehicular Electronics and Intelligent Transportation
+2. **TPC Member**, IEEE VTC 2023-Fall Hong Kong, China, Electric Vehicles, Vehicular Electronics and Intelligent Transportation
 3. **Reviewer**: IEEE JSAC, COMST, TCOM, TWC, IOTJ, TCCN, TIFS, TVT, TSM, WCL, and more.
 
 ---
