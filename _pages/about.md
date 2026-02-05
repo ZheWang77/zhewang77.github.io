@@ -30,7 +30,7 @@ News
 
 <details>
 <summary><strong>👉 More News</strong></summary>
-<ol start="13"> 
+<ol start="9"> 
 <li><b> [May 2025]</b> One collaborative paper titled <a href="https://arxiv.org/pdf/2412.03940">"Performance Analysis of XL-MIMO With Rotary and Movable Antennas for High-Speed Railway"</a> has been accepted by <b><i>IEEE Transactions on Vehicular Technology</i></b>.</li>
 <li><b>[Apr. 2025]</b> One collaborative paper titled <a href="https://zhewang77.github.io/files/Mobility-Aware_Near-Field_Beam_Training_in_XL-MIMO_Systems_for_High-Speed_Railway.pdf">"Mobility-Aware Near-Field Beam Training in XL-MIMO Systems for High-Speed Railway"</a> has been accepted by <b><i>IEEE Wireless Communications Letters</i></b>.</li>
 <li><b>[Mar. 2025]</b> One collaborative paper titled <a href="https://arxiv.org/pdf/2501.13403">"ROMA: Rotary and Movable Antenna"</a> has been accepted by <b><i>IEEE Wireless Communications Letters</i></b>.</li>
@@ -61,8 +61,6 @@ News
 
 ---
 
-
----
 
 First-Author Papers
 ======
