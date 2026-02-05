@@ -33,7 +33,7 @@ News
 
 <details>
 <summary><strong>👉 More News</strong></summary>
-<ol start="11"> 
+<ol start="13"> 
 <li><b>[Feb. 2025]</b> One collaborative paper titled <a href="https://zhewang77.github.io/files/Downlink_Performance_Analysis_of_Extremely_Large-Scale_MIMO-OFDM_Systems_for_High-Speed_Railway.pdf">"Downlink Performance Analysis of Extremely Large-Scale MIMO-OFDM Systems for High-Speed Railway"</a> has been accepted by <b><i>IEEE Transactions on Vehicular Technology</i></b>.</li>
 <li><b>[Jan. 2025]</b> One first-author paper titled <a href="https://arxiv.org/pdf/2401.15280">"Analytical Framework for Effective Degrees of Freedom in Near-Field XL-MIMO"</a> has been accepted by <b><i>IEEE Transactions on Wireless Communications</i></b>.</li>
 <li><b>[Jan. 2025]</b> One first-author paper titled <a href="https://arxiv.org/pdf/2307.07340">"A Tutorial on Extremely Large-Scale MIMO for 6G: Fundamentals, Signal Processing, and Applications"</a> has been an <b><i>ESI Highly Cited Paper</i></b>.</li>
