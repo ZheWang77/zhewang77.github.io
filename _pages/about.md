@@ -62,7 +62,7 @@ News
 
 Submitted Papers
 ======
-1. **Zhe Wang**, Jiayi Zhang, Bokai Xu, Dusit Niyato, Bo Ai, Shiwen Mao, and Zhu Han, "Low-Complexity Distributed Combining Design for Near-Field Cell-Free XL-MIMO Systems" submitted to ***IEEE Transactions on Wireless Communications***, 2025.
+None
 
 ---
 
@@ -70,7 +70,7 @@ First-Author Papers
 ======
 **For all publications, please refer to Publications or my [google scholar](https://scholar.google.com/citations?user=eVeXKIEAAAAJ&hl=en).**
 1. **Zhe Wang**, Jiayi Zhang, Bokai Xu, Dusit Niyato, Bo Ai, Shiwen Mao, and Zhu Han, ["Low-Complexity Distributed Combining Design for Near-Field Cell-Free XL-MIMO Systems"](https://arxiv.org/pdf/2602.03581) ***IEEE Transactions on Wireless Communications***, accepted, 2026. <i><font color="#C93756"> We present five low-complexity combining schemes for near-field cell-free XL-MIMO systems.
-2. **Zhe Wang**, Emil Björnson, Jiayi Zhang, Peng Zhang, Vitaly Petrov, and Bo Ai, ["Statistics Approximation-Enabled Distributed Beamforming for Cell-Free Massive MIMO"](https://arxiv.org/pdf/2602.03590) ***IEEE International Conference on Communications (ICC)***, 2026. <i><font color="#C93756"> We apply the statistics approximation methodology to approximate instantaneous terms related to other APs by channel statistics to construct the distributed combining scheme at each AP with local instantaneous information and global statistic.
+2. **Zhe Wang**, Emil Björnson, Jiayi Zhang, Peng Zhang, Vitaly Petrov, and Bo Ai, ["Statistics Approximation-Enabled Distributed Beamforming for Cell-Free Massive MIMO"](https://arxiv.org/pdf/2602.03590) ***IEEE International Conference on Communications (ICC)***, 2026. <i><font color="#C93756"> We apply the statistics approximation methodology to approximate instantaneous terms related to other APs by channel statistics to construct the distributed combining scheme at each AP.
 1. **Zhe Wang**, Jiayi Zhang, Bokai Xu, Wenhui Yi, Emil Björnson, and Bo Ai, ["Flexible MIMO for Future Wireless Communications: Which Flexibilities are Possible?"](https://arxiv.org/abs/2506.07599) ***IEEE Wireless Communications***, accepted, 2025. <i><font color="#C93756"> We present a taxonomy framework, referred to as flexible MIMO, that systematically categorizes a wide range of evolving MIMO technologies.
 1. **Zhe Wang**, Jiayi Zhang, Hongyang Du, Ruichen Zhang, Dusit Niyato, Bo Ai, and Khaled B. Letaief, ["Large Language Model Empowered Next-Generation MIMO Networks: Fundamentals, Challenges, and Visions,"](https://arxiv.org/abs/2404.08878) ***Digital Communications and Networks***, accepted, 2025. <i><font color="#C93756"> We study the large language model enabled next-generation MIMO networks.
 1. **Zhe Wang**, Jiayi Zhang, Emil Björnson, Dusit Niyato, and Bo Ai, ["Optimal Bilinear Equalizer for Cell-Free Massive MIMO Systems over Correlated Rician Channels,"](https://arxiv.org/abs/2407.18531) ***IEEE Transactions on Signal Processing***, accepted, 2025. <i><font color="#C93756"> We explore the low-complexity optimal bilinear equalizer (OBE) combining scheme design for cell-free massive multiple-input multiple-output networks with spatially correlated Rician fading channels.</font><i>[<a href="https://github.com/ZheWang77/Optimal_Bilinear_Equalizer_Cell_Free_Massive_MIMO_Systems_over_Correlated_Rician_Channels">Download Simulation Code</a>]
