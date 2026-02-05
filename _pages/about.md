@@ -60,9 +60,6 @@ News
 
 ---
 
-Submitted Papers
-======
-None
 
 ---
 
