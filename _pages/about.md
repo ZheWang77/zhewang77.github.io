@@ -16,6 +16,7 @@ If you have any questions or have an interest in collaborating with me, please f
 
 News
 ======
+1. <b>[Mar. 2026]</b> One collaborative paper titled <a href="https://arxiv.org/pdf/2310.11044">"A Tutorial on Near-Field XL-MIMO Communications Towards 6G"</a> has been an <b><i>ESI Hot Paper</i></b>.
 1. <b>[Jan. 2026]</b> One first-author paper titled <a href="https://arxiv.org/pdf/2602.03581">"Low-Complexity Distributed Combining Design for Near-Field Cell-Free XL-MIMO Systems"</a> has been accepted by <b><i>IEEE Transactions on Wireless Communications</i></b>.
 1. <b>[Jan. 2026]</b> One first-author paper titled <a href="https://arxiv.org/pdf/2602.03590">"Statistics Approximation-Enabled Distributed Beamforming for Cell-Free Massive MIMO"</a> has been accepted by <b><i>IEEE International Conference on Communications (ICC) 2026</i></b>.
 1. <b>[Jan. 2026]</b> One collaborative paper titled <a href="https://arxiv.org/pdf/2310.11044">"A Tutorial on Near-Field XL-MIMO Communications Towards 6G"</a> has been an <b><i>ESI Highly Cited Paper</i></b>.
@@ -30,7 +31,7 @@ News
 
 <details>
 <summary><strong>👉 More News</strong></summary>
-<ol start="9"> 
+<ol start="10"> 
 <li><b> [May 2025]</b> One collaborative paper titled <a href="https://arxiv.org/pdf/2412.03940">"Performance Analysis of XL-MIMO With Rotary and Movable Antennas for High-Speed Railway"</a> has been accepted by <b><i>IEEE Transactions on Vehicular Technology</i></b>.</li>
 <li><b>[Apr. 2025]</b> One collaborative paper titled <a href="https://zhewang77.github.io/files/Mobility-Aware_Near-Field_Beam_Training_in_XL-MIMO_Systems_for_High-Speed_Railway.pdf">"Mobility-Aware Near-Field Beam Training in XL-MIMO Systems for High-Speed Railway"</a> has been accepted by <b><i>IEEE Wireless Communications Letters</i></b>.</li>
 <li><b>[Mar. 2025]</b> One collaborative paper titled <a href="https://arxiv.org/pdf/2501.13403">"ROMA: Rotary and Movable Antenna"</a> has been accepted by <b><i>IEEE Wireless Communications Letters</i></b>.</li>
