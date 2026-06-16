@@ -134,6 +134,4 @@ Academic Services
 ***
 
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=yIRxvwt_ngPuNUrbjuRo4JPcAaXOQcw_QwnTwom8izY&cl=ffffff&w=a"></script>
-
-
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=177&t=n&d=yIRxvwt_ngPuNUrbjuRo4JPcAaXOQcw_QwnTwom8izY'></script>
