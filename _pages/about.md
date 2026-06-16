@@ -133,5 +133,4 @@ Academic Services
 
 ***
 
-
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=192&t=n&d=yIRxvwt_ngPuNUrbjuRo4JPcAaXOQcw_QwnTwom8izY'></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=235&t=n&d=yIRxvwt_ngPuNUrbjuRo4JPcAaXOQcw_QwnTwom8izY'></script>
