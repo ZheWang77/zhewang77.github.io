@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhe Wang (王者)"
+title: "Zhe Wang"
 author_profile: true
 redirect_from: 
   - /about/
